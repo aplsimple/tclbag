@@ -38,9 +38,9 @@ Just download a [tclkit](https://github.com/aplsimple/tclbag/releases) correspon
 
 <b>Note:</b>
 
-   * There may be some issues while using [tclkit](https://github.com/aplsimple/tclbag/releases) with [alited](https://aplsimple.github.io/en/tcl/alited), esp. when an external package is required.
+There may be some issues while using [tclkit](https://github.com/aplsimple/tclbag/releases) with [alited](https://aplsimple.github.io/en/tcl/alited), esp. when an external package is required.
 
-   * This information might be helpful: [Usage tclkits with alited](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
+In such case, this information might be helpful: [Usage tclkits with alited](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
 
 ## Download
 
