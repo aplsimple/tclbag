@@ -44,15 +44,15 @@ Just download a [tclkit](https://github.com/aplsimple/tclbag/releases) correspon
 
 ## Download
 
-   * [TclTk docs](https://github.com/aplsimple/alited/releases/download/TclTk-docs-8.6.11/TclTk-docs-8.6.11.zip)
+   * [TclTk docs](https://github.com/aplsimple/tclbag/releases/download/TclTk-docs-8.6.11/TclTk-docs-8.6.11.zip)
 
-   * [tclkit 8.6.12 for Linux 32 bit](https://github.com/aplsimple/alited/releases/download/tclkit-lin32-8.6.12/tclkit-lin32-8.6.12.zip)
+   * [tclkit 8.6.12 for Linux 32 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-lin32-8.6.12/tclkit-lin32-8.6.12.zip)
 
-   * [tclkit 8.6.11 for Linux 64 bit](https://github.com/aplsimple/alited/releases/download/tclkit-lin64-8.6.11/tclkit-lin64-8.6.11.zip)
+   * [tclkit 8.6.11 for Linux 64 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-lin64-8.6.11/tclkit-lin64-8.6.11.zip)
 
-   * [tclkit 8.6.12 for Windows 32 bit](https://github.com/aplsimple/alited/releases/download/tclkit-win32-8.6.12/tclkit-win32-8.6.12.zip)
+   * [tclkit 8.6.12 for Windows 32 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-win32-8.6.12/tclkit-win32-8.6.12.zip)
 
-   * [tclkit 8.6.12 for Windows 64 bit](https://github.com/aplsimple/alited/releases/download/tclkit-win64-8.6.12/tclkit-win64-8.6.12.zip)
+   * [tclkit 8.6.12 for Windows 64 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-win64-8.6.12/tclkit-win64-8.6.12.zip)
 
 ## See also
 
