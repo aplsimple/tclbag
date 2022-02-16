@@ -30,7 +30,7 @@ or this way:
 
       wish ~/PG/alited/src/alited.tcl
 
-However, you can also use a stand-alone [tclkit](https://wiki.tcl-lang.org/page/Tclkit) instead of <em>tclsh / wish</em> (of the fully deployed [Tcl/Tk](https://wiki.tcl-lang.org/)), this way:
+However, you can also use a stand-alone [tclkit](https://github.com/aplsimple/tclbag/releases) instead of <em>tclsh / wish</em> (of the fully deployed [Tcl/Tk](https://wiki.tcl-lang.org/)), this way:
 
       tclkit ~/PG/alited/src/alited.tcl
 
@@ -38,9 +38,18 @@ Just download a [tclkit](https://github.com/aplsimple/tclbag/releases) correspon
 
 <b>Note:</b>
 
-There may be some issues while using [tclkit](https://github.com/aplsimple/tclbag/releases) with [alited](https://aplsimple.github.io/en/tcl/alited), esp. when an external package is required.
+   * While using [alited](https://aplsimple.github.io/en/tcl/alited) with [tclkit](https://github.com/aplsimple/tclbag/releases), there may be issues with an external package required by a project.
+<br>In such case, tips of [Using alited with tclkits](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit) might be useful.
 
-In such case, this information might be helpful: [Usage tclkits with alited](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
+## Androwish builds
+
+Like [tclkit](https://wiki.tcl-lang.org/page/Tclkit), <em>vanilla Tcl/Tk</em> is a stand-alone executable that can be used instead of fully deployed  [Tcl/Tk](https://wiki.tcl-lang.org/).
+
+A lot of vanilla builds are available at [androwish.org](http://androwish.org/download/index.html). Just select a <em>vanilla wish</em> corresponding to your platform.
+
+The [androwish vanilla builds](http://androwish.org/download/index.html) contain a lot of additional Tcl/Tk packages which makes them so remarkable.
+
+You need not install most of the popular packages while using an [androwish's vanilla wish](http://androwish.org/download/index.html).
 
 ## Download
 
@@ -54,8 +63,20 @@ In such case, this information might be helpful: [Usage tclkits with alited](htt
 
    * [tclkit 8.6.12 for Windows 64 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-win64-8.6.12/tclkit-win64-8.6.12.zip)
 
+   * [Androwish vanilla wish 8.6.10 for Linux 32 bit](https://github.com/aplsimple/tclbag/releases/download/vanillawish-lin32-8.6.10/vanillawish-lin32-8.6.10.zip)
+
+   * [Androwish vanilla wish 8.6.10 for Linux 64 bit](https://github.com/aplsimple/tclbag/releases/download/vanillawish-lin64-8.6.10/vanillawish-lin64-8.6.10.zip)
+
+   * [Androwish vanilla wish 8.6.10 for Windows 32 bit](https://github.com/aplsimple/tclbag/releases/download/vanillawish-win32-8.6.10/vanillawish-win32-8.6.10.zip)
+
+   * [Androwish vanilla wish 8.6.10 for Windows 64 bit](https://github.com/aplsimple/tclbag/releases/download/vanillawish-win64-8.6.10/vanillawish-win64-8.6.10.zip)
+
 ## See also
 
-   * [alited](https://aplsimple.github.io/en/tcl/alited)
+   * [Description of alited](https://aplsimple.github.io/en/tcl/alited)
 
-   * [Usage tclkits with alited](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
+   * [Description of tclkit](https://wiki.tcl-lang.org/page/Tclkit)
+
+   * [Using alited with tclkits](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
+
+   * [Androwish vanilla Tcl/Tk builds](http://androwish.org/download/index.html)
