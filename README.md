@@ -22,7 +22,7 @@ To enable this feature:
 
 ## Tclkits
 
-The [alited](https://aplsimple.github.io/en/tcl/alited) editor can be used with a fully deployed [Tcl/Tk](https://wiki.tcl-lang.org/) of any version since v8.6.6, this way:
+The [alited](https://aplsimple.github.io/en/tcl/alited) editor can be used with a fully deployed [Tcl/Tk](https://wiki.tcl-lang.org/) of any version since v8.6.10, this way:
 
       tclsh ~/PG/alited/src/alited.tcl
 
@@ -59,6 +59,8 @@ You need not install most of the popular packages while using an [androwish's va
 
    * [tclkit 8.6.11 for Linux 64 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-lin64-8.6.11/tclkit-lin64-8.6.11.zip)
 
+   * [kbskit 8.6.11 for Linux 64 bit](https://github.com/aplsimple/tclbag/releases/download/kbsvq-lin64-8.6.11/kbsvq-lin64-8.6.11.zip)
+
    * [tclkit 8.6.12 for Windows 32 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-win32-8.6.12/tclkit-win32-8.6.12.zip)
 
    * [tclkit 8.6.12 for Windows 64 bit](https://github.com/aplsimple/tclbag/releases/download/tclkit-win64-8.6.12/tclkit-win64-8.6.12.zip)
@@ -78,5 +80,7 @@ You need not install most of the popular packages while using an [androwish's va
    * [Description of tclkit](https://wiki.tcl-lang.org/page/Tclkit)
 
    * [Using alited with tclkits](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
+
+   * [Linux, Windows and MacOS kbskits](https://github.com/auriocus/kbskit/releases)
 
    * [Androwish vanilla Tcl/Tk builds](http://androwish.org/download/index.html)
