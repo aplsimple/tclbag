@@ -16,7 +16,7 @@ The below info is mostly about them used in [alited](https://aplsimple.github.io
 
 To enable this feature:
 
-  * download [Tcl/Tk docs](https://github.com/aplsimple/alited/releases/download/TclTk-docs-8.6.11/TclTk-docs-8.6.11.zip)
+  * download [Tcl/Tk docs](https://github.com/aplsimple/tclbag/releases/download/TclTk-docs-8.6.11/TclTk-docs-8.6.11.zip)
   * unzip it into ~/DOC
   * set up a path to it in [alited](https://aplsimple.github.io/en/tcl/alited)'s Preferences (<em>Setup/Preferences/Tools</em> tab)
 
@@ -30,15 +30,15 @@ or this way:
 
       wish ~/PG/alited/src/alited.tcl
 
-However, you can also use a stand-alone [tclkit](https://github.com/aplsimple/tclbag/releases) instead of <em>tclsh / wish</em> (of the fully deployed [Tcl/Tk](https://wiki.tcl-lang.org/)), this way:
+However, you can also use a stand-alone [tclkit](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit) instead of <em>tclsh / wish</em> (of the fully deployed [Tcl/Tk](https://wiki.tcl-lang.org/)), this way:
 
       tclkit ~/PG/alited/src/alited.tcl
 
-Just download a [tclkit](https://github.com/aplsimple/tclbag/releases) corresponding to your platform and unzip it into some directory in <em>$PATH</em>.
+Just download a [tclkit](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit) corresponding to your platform and unzip it into some directory in <em>$PATH</em>.
 
 <b>Note:</b>
 
-   * While using [alited](https://aplsimple.github.io/en/tcl/alited) with [tclkit](https://github.com/aplsimple/tclbag/releases), there may be issues with an external package required by a project.
+   * While using [alited](https://aplsimple.github.io/en/tcl/alited) with [tclkit](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit), there may be issues with an external package required by a project.
 <br>In such case, tips of [Using alited with tclkits](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit) might be useful.
 
 ## Androwish builds
@@ -50,6 +50,23 @@ A lot of vanilla builds are available at [androwish.org](http://androwish.org/do
 The [androwish vanilla builds](http://androwish.org/download/index.html) contain a lot of additional Tcl/Tk packages which makes them so remarkable.
 
 You need not install most of the popular packages while using an [androwish's vanilla wish](http://androwish.org/download/index.html).
+
+## LUCK: Lean Undroidwish Construction Kit
+
+[LUCK](http://ch-werner.de/cgi-bin/luck.pl) provides a smart interface to build a stand-alone <em>tclsh / wish</em>, with your preferred packages.
+
+Select a [vanillawish](http://ch-werner.de/cgi-bin/luck.pl) corresponding to your platform. Then select packages to be included in the [vanillawish](http://ch-werner.de/cgi-bin/luck.pl).
+
+In particular, to satisfy [alited](https://aplsimple.github.io/en/tcl/alited)'s requirements, you can select the following minimum of packages:
+
+   * Img
+   * tcllib
+   * tclx
+   * tklib
+   * tls
+   * treectrl
+
+After selecting the packages, press "Generate binary" button. This will create and download your [vanillawish](http://ch-werner.de/cgi-bin/luck.pl).
 
 ## Download
 
@@ -73,11 +90,15 @@ You need not install most of the popular packages while using an [androwish's va
 
    * [Androwish vanilla wish 8.6.10 for Windows 64 bit](https://github.com/aplsimple/tclbag/releases/download/vanillawish-win64-8.6.10/vanillawish-win64-8.6.10.zip)
 
+   * [Full bag of tclkit & vanilla wish stuff](https://github.com/aplsimple/tclbag/releases)
+
 ## See also
 
    * [Description of alited](https://aplsimple.github.io/en/tcl/alited)
 
    * [Description of tclkit](https://wiki.tcl-lang.org/page/Tclkit)
+
+   * [LUCK: Lean Undroidwish Construction Kit](http://ch-werner.de/cgi-bin/luck.pl)
 
    * [Using alited with tclkits](https://aplsimple.github.io/en/tcl/alited/index.html#tclkit)
 
