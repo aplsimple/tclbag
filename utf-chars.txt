@@ -1,6 +1,6 @@
 
 Below are some of UTF characters that can be used in Tcl messages
-to make them more vivid 👍, visible 🗰 and even humorous 🐵, wow!
+to make them more vivid 👍, visible 💥 and even humorous 🐵, wow!
 
 This file is best viewed in alited editor available in the links:
 
@@ -21,15 +21,9 @@ This file is best viewed in alited editor available in the links:
 
 \U0001f60f = 😏
 
-\U0001f5f0 = 🗰
-
-\U0001f5e9 = 🗩
-
 \U0001f4a5 = 💥
 
 \U0001f4bb = 💻
-
-\U0001f7bf = 🞿
 
 # ________________________ Letters _________________________ #
 
