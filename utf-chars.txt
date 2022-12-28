@@ -7,9 +7,9 @@ This file is best viewed in alited editor available in the links:
   https://chiselapp.com/user/aplsimple/repository/alited/download
   https://github.com/aplsimple/alited
 
-# ________________________ Popular _________________________ #
+# _______ Popular _______ #
 
-... copied here from lines below
+... copied from lines below
 
 \U0001f590 = 🖐
 
@@ -25,10 +25,10 @@ This file is best viewed in alited editor available in the links:
 
 \U0001f4bb = 💻
 
-# ________________________ Letters _________________________ #
+# _______ Letters _______ #
 
 
-## ________________________ in brackets _________________________ ##
+  ## _______ in brackets _______ ##
 
 \U0001f110 = 🄐
 \U0001f111 = 🄑
@@ -58,7 +58,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f129 = 🄩
 \U0001f12a = 🄪
 
-## ________________________ in frame _________________________ ##
+  ## _______ in frame _______ ##
 
 \U0001f12b = 🄫
 \U0001f12c = 🄬
@@ -98,7 +98,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f14e = 🅎
 \U0001f14f = 🅏
 
-## ________________________ in sphere _________________________ ##
+  ## _______ in sphere _______ ##
 
 \U0001f150 = 🅐
 \U0001f151 = 🅑
@@ -127,7 +127,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f168 = 🅨
 \U0001f169 = 🅩
 
-## ________________________ in square _________________________ ##
+  ## _______ in square _______ ##
 
 \U0001f170 = 🅰
 \U0001f171 = 🅱
@@ -162,7 +162,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f18e = 🆎
 \U0001f18f = 🆏
 
-## ________________________ abbrev. _________________________ ##
+  ## _______ abbrev. _______ ##
 
 \U0001f190 = 🆐
 \U0001f191 = 🆑
@@ -194,7 +194,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f1ab = 🆫
 \U0001f1ac = 🆬
 
-## ________________________ in dots _________________________ ##
+  ## _______ in dots _______ ##
 
 \U0001f1e6 = 🇦
 \U0001f1e7 = 🇧
@@ -223,7 +223,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f1fe = 🇾
 \U0001f1ff = 🇿
 
-# ________________________ geography _________________________ #
+# _______ geography _______ #
 
 \U0001f300 = 🌀
 \U0001f301 = 🌁
@@ -271,7 +271,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f32b = 🌫
 \U0001f32c = 🌬
 
-# ________________________ botany _________________________ #
+# _______ botany _______ #
 
 \U0001f32d = 🌭
 \U0001f32e = 🌮
@@ -313,7 +313,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f352 = 🍒
 \U0001f353 = 🍓
 
-# ________________________ sweets _________________________ #
+# _______ sweets _______ #
 
 \U0001f354 = 🍔
 \U0001f355 = 🍕
@@ -363,7 +363,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f381 = 🎁
 \U0001f382 = 🎂
 
-# ________________________ arts _________________________ #
+# _______ arts _______ #
 
 \U0001f383 = 🎃
 \U0001f384 = 🎄
@@ -424,7 +424,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f3bb = 🎻
 \U0001f3bc = 🎼
 
-# ________________________ sport _________________________ #
+# _______ sport _______ #
 
 \U0001f3bd = 🎽
 \U0001f3be = 🎾
@@ -453,7 +453,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f3d5 = 🏕
 \U0001f3d6 = 🏖
 
-# ________________________ banks _________________________ #
+# _______ banks _______ #
 
 \U0001f3d7 = 🏗
 \U0001f3d8 = 🏘
@@ -482,7 +482,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f3ef = 🏯
 \U0001f3f0 = 🏰
 
-## ________________________ flags _________________________ ##
+  ## _______ flags _______ ##
 
 \U0001f3f1 = 🏱
 \U0001f3f2 = 🏲
@@ -500,7 +500,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f3fe = 🏾
 \U0001f3ff = 🏿
 
-# ________________________ animals _________________________ #
+# _______ animals _______ #
 
 \U0001f400 = 🐀
 \U0001f401 = 🐁
@@ -565,13 +565,13 @@ This file is best viewed in alited editor available in the links:
 \U0001f43c = 🐼
 \U0001f43d = 🐽
 \U0001f43e = 🐾
-
-# ________________________ people _________________________ #
-
-
-## ________________________ jests _________________________ ##
-
 \U0001f43f = 🐿
+
+# _______ people _______ #
+
+
+  ## _______ jests _______ ##
+
 \U0001f440 = 👀
 \U0001f441 = 👁
 \U0001f442 = 👂
@@ -589,7 +589,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f44e = 👎
 \U0001f44f = 👏
 
-## ________________________ wear _________________________ ##
+  ## _______ wear _______ ##
 
 \U0001f450 = 👐
 \U0001f451 = 👑
@@ -612,7 +612,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f462 = 👢
 \U0001f463 = 👣
 
-## ________________________ faces _________________________ ##
+  ## _______ faces _______ ##
 
 \U0001f464 = 👤
 \U0001f465 = 👥
@@ -646,9 +646,6 @@ This file is best viewed in alited editor available in the links:
 \U0001f481 = 💁
 \U0001f482 = 💂
 \U0001f483 = 💃
-
-# ________________________ likes & smiles _________________________ #
-
 \U0001f484 = 💄
 \U0001f485 = 💅
 \U0001f486 = 💆
@@ -656,6 +653,9 @@ This file is best viewed in alited editor available in the links:
 \U0001f488 = 💈
 \U0001f489 = 💉
 \U0001f48a = 💊
+
+# _______ likes & smiles _______ #
+
 \U0001f48b = 💋
 \U0001f48c = 💌
 \U0001f48d = 💍
@@ -694,7 +694,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f4ae = 💮
 \U0001f4af = 💯
 
-# ________________________ money _________________________ #
+# _______ money _______ #
 
 \U0001f4b0 = 💰
 \U0001f4b1 = 💱
@@ -706,7 +706,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f4b7 = 💷
 \U0001f4b8 = 💸
 
-# ________________________ icons _________________________ #
+# _______ icons _______ #
 
 \U0001f4b9 = 💹
 \U0001f4ba = 💺
@@ -827,7 +827,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f52d = 🔭
 \U0001f52e = 🔮
 
-# ________________________ signs _________________________ #
+# _______ signs _______ #
 
 \U0001f52f = 🔯
 \U0001f530 = 🔰
@@ -863,7 +863,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f54e = 🕎
 \U0001f54f = 🕏
 
-# ________________________ clock _________________________ #
+# _______ clock _______ #
 
 \U0001f550 = 🕐
 \U0001f551 = 🕑
@@ -890,7 +890,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f566 = 🕦
 \U0001f567 = 🕧
 
-# ________________________ icons #2 _________________________ #
+# _______ icons #2 _______ #
 
 \U0001f568 = 🕨
 \U0001f569 = 🕩
@@ -931,7 +931,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f58c = 🖌
 \U0001f58d = 🖍
 
-# ________________________ jests #2 _________________________ #
+# _______ jests #2 _______ #
 
 \U0001f58e = 🖎
 \U0001f58f = 🖏
@@ -956,7 +956,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f5a2 = 🖢
 \U0001f5a3 = 🖣
 
-# ________________________ icons #3 _________________________ #
+# _______ icons #3 _______ #
 
 \U0001f5a4 = 🖤
 \U0001f5a5 = 🖥
@@ -1023,7 +1023,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f5e2 = 🗢
 \U0001f5e3 = 🗣
 
-# ________________________ flashes _________________________ #
+# _______ flashes _______ #
 
 \U0001f5e4 = 🗤
 \U0001f5e5 = 🗥
@@ -1041,7 +1041,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f5f1 = 🗱
 \U0001f5f2 = 🗲
 
-# ________________________ yes / no _________________________ #
+# _______ yes / no _______ #
 
 \U0001f5f3 = 🗳
 \U0001f5f4 = 🗴
@@ -1051,7 +1051,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f5f8 = 🗸
 \U0001f5f9 = 🗹
 
-# ________________________ smiles #2 _________________________ #
+# _______ misc _______ #
 
 \U0001f5fa = 🗺
 \U0001f5fb = 🗻
@@ -1059,6 +1059,9 @@ This file is best viewed in alited editor available in the links:
 \U0001f5fd = 🗽
 \U0001f5fe = 🗾
 \U0001f5ff = 🗿
+
+# _______ smiles #2 _______ #
+
 \U0001f600 = 😀
 \U0001f601 = 😁
 \U0001f602 = 😂
@@ -1140,7 +1143,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f64e = 🙎
 \U0001f64f = 🙏
 
-# ________________________ monograms _________________________ #
+# _______ monograms _______ #
 
 \U0001f650 = 🙐
 \U0001f651 = 🙑
@@ -1191,7 +1194,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f67e = 🙾
 \U0001f67f = 🙿
 
-# ________________________ transport & road signs _________________________ #
+# _______ transport & road signs _______ #
 
 \U0001f680 = 🚀
 \U0001f681 = 🚁
@@ -1308,7 +1311,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f6fb = 🛻
 \U0001f6fc = 🛼
 
-# ________________________ QE _________________________ #
+# _______ QE _______ #
 
 \U0001f700 = 🜀
 \U0001f701 = 🜁
@@ -1427,7 +1430,7 @@ This file is best viewed in alited editor available in the links:
 \U0001f772 = 🝲
 \U0001f773 = 🝳
 
-# ________________________ geometry _________________________ #
+# _______ geometry _______ #
 
 \U0001f780 = 🞀
 \U0001f781 = 🞁
