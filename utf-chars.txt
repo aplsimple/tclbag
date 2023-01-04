@@ -700,17 +700,17 @@ This file is best viewed in alited editor available in the links:
 
 \U0001F4B0 = 💰
 \U0001F4B1 = 💱
-\U0001F4B2 = 💲
+\U0001F4B2 = ð²
 \U0001F4B3 = 💳
 \U0001F4B4 = 💴
 \U0001F4B5 = 💵
 \U0001F4B6 = 💶
 \U0001F4B7 = 💷
 \U0001F4B8 = 💸
+\U0001F4B9 = 💹
 
 # _______ icons _______ #
 
-\U0001F4B9 = 💹
 \U0001F4BA = 💺
 \U0001F4BB = 💻
 \U0001F4BC = 💼
